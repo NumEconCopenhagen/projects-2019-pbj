@@ -1,8 +1,8 @@
-# Modelproject
+# Model Analysis Project
 
-This project examines the basic Principal-Agent model known from game theory. The model is introduced and solved analytically by sympy following an algorithm. The results is compared to an numerical solution to the model. Furthermore the results are presented in graphs using different values for the parameters.
+This project examines the basic Principal-Agent model known from game theory. The model is introduced and solved analytically by sympy following an algorithm. The results is compared to an numerical solution to the model. Furthermore the results are presented in graphs using different values for the parameters.The model is extended with a risk-averse agent which affects the outcome of the model. The two versions of the model are compared in graphs.
 
-The model is extended with a risk-averse agent which affects the outcome of the model. The two versions of the model are compared in graphs.
+The project uses a module located in the /Modelproject-folder called symbols.py.
 
 The **results** of the project can be seen from running Model_project.ipynb.
 
